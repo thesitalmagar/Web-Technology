@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<college>
+    <student>
+        <firstName>Benjamin</firstName>
+        <lastName>Graham</lastName>
+        <contact>98938493444</contact>
+        <email>benjamin@gmail.com</email>
+        <address>
+            <city>todud</city>
+            <state>fanrr</state>
+            <pin>9384</pin>
+        </address>
+    </student>
+</college>

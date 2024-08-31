@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-9" standalone="yes"?>
+<!-- Internal DTD -->
+<!DOCTYPE note[
+<!ELEMENT address (name, email,phone,birthday)>
+<!ELEMENT name (first,last)>
+<!ELEMENT first (#PCDATA)>
+<!ELEMENT last (#PCDATA)>
+<!ELEMENT email (#PCDATA)>
+<!ELEMENT phone (#PCDATA)>
+<!ELEMENT birthday (year, month, day)>
+<!ELEMENT year (#PCDATA)>
+<!ELEMENT month (#PCDATA)>
+<!ELEMENT day (#PCDATA)>
+]>
+<address>
+<name>
+<firstname>Sital</firstname>
+<lastname>Pun Magar</lastname>
+</name>
+<email>thesitalmagar@gmail.com</email>
+<phone>9876543210</phone>
+<birthday>
+<year>2000</year>
+<month>01</month>
+<day>01</day>
+</birthday>
+</address>

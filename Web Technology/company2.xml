@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<company>
+    <employee>
+        <firstName>Manish</firstName>
+        <lastName>Bhusal</lastName>
+        <contactNo>988347832323</contactNo>
+        <email>manish@gmail.com</email>
+        <address>
+            <city>Tulsipur</city>
+            <state>Lumbini</state>
+            <zip>22400</zip>
+        </address>
+    </employee>
+</company>

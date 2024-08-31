@@ -1,0 +1,37 @@
+<xs:schema xmlns:xs="www.google.com">
+    <xs:element name="employe">
+        <xs:complexType>
+            <xs:sequence>
+
+                <xs:element name="name">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="firstname" type="xs:string"/>
+                            <xs:element name="lastname" type="xs:string"/>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+
+                <xs:element name="contact">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="mobile" type="xs:string"/>
+                            <xs:element name="landline" type="xs:string"/>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+                
+                <xs:element name="address">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="city" type="xs:string"/>
+                            <xs:element name="street" type="xs:string"/>
+                            <xs:element name="tole" type="xs:string"/>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>

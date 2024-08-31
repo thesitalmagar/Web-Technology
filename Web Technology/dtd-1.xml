@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-9" standalone="yes"?>
+<!-- Internal DTD -->
+<!DOCTYPE note[
+<!ELEMENT note (to, from, subject, body)>
+<!ELEMENT to (#PCDATA)>
+<!ELEMENT from (#PCDATA)>
+<!ELEMENT subject (#PCDATA)>
+<!ELEMENT body (#PCDATA)>
+]>
+<note>
+<to>Sital</to>
+<from>Nepal</from>
+<subject>Hello and hi</subject>
+<body>This is body</body>
+</note>

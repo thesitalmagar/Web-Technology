@@ -1,0 +1,30 @@
+.container {
+    width: 22%;
+    margin: 12px auto;
+    padding: 32px;
+    background-color: rgb(255, 131, 131);
+    border-radius: 23px;
+}
+
+.display-box {
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 100%;
+    padding: 5px;
+}
+
+.clear {
+    background-color: red;
+    color: white;
+    border: 1px solid black;
+}
+
+input[type=button] {
+    font-size: 22px;
+    padding: 7px;
+    margin: 5px;
+    width: 52px;
+    border: none;
+    border-radius: 8px;
+}

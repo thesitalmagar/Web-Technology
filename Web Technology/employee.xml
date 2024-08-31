@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employee>
+    <name>Benjamin</name>
+    <job>
+        <title>Software Developer</title>
+        <department>Coding</department>
+        <years_of_experience>4</years_of_experience>
+    </job>
+    <age>25</age>
+    <address>
+        <street>kidyy</street>
+        <state>fidio</state>
+        <zip>3663</zip>
+        <city>benjki</city>
+    </address>
+</employee>
